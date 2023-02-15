@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Main",
+    "icon": "bi-gear-fill",
+    "childrens": [
+      {
+        "title": "Deshbord",
+        "icon": "bi-house-fill",
+        "path": "/"
+      }
+    ]
+  },
+  {
+    "title": "LISTS",
+    "icon": "bi-info-circle-fill",
+    "childrens": [
+      {
+        "title": "User",
+        "path": "/login"
+      },
+      {
+        "title": "Product",
+        "path": "/register"
+      },
+      {
+        "title": "Order",
+        "path": "/forgot-password"
+      },
+      {
+        "title": "Delivery",
+        "path": "/reset-password"
+      }
+    ]
+  },
+  {
+    "title": "Useful",
+    "icon": "bi-person-fill",
+    "childrens": [
+      {
+        "title": "Stats",
+        "path": "/profile"
+      },
+      {
+        "title": "Notifications",
+        "path": "/profile"
+      }
+    ]
+  },
+  {
+    "title": "Service",
+    "icon": "bi-view-list",
+    "childrens": [
+      {
+        "title": "System Health",
+        "path": "/search"
+      },
+      {
+        "title": "Logs",
+        "path": "/history"
+      },
+      {
+        "title": "Settings",
+        "path": "/history"
+      }
+    ]
+  },
+  {
+    "title": "User",
+    "icon": "bi-person-fill",
+    "childrens": [
+      {
+        "title": "Profile",
+        "path": "/profile"
+      },
+      {
+        "title": "Logout",
+        "path": "/profile"
+      }
+    ]
+  }
+]
